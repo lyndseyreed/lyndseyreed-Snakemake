@@ -1,0 +1,19 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+etoh60_1_1	etoh60_1_1.fq	Conventional base calls	Sanger / Illumina 1.9	21837.0	0.0	101.0	37.0	99.90383294408572	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+etoh60_1_2	etoh60_1_2.fq	Conventional base calls	Sanger / Illumina 1.9	21837.0	0.0	101.0	37.0	99.867197875166	101.0	pass	pass	pass	pass	warn	pass	pass	pass	pass	pass	pass
+etoh60_2_1	etoh60_2_1.fq	Conventional base calls	Sanger / Illumina 1.9	22605.0	0.0	101.0	37.0	99.8717097987171	101.0	pass	pass	pass	pass	fail	pass	pass	pass	pass	pass	pass
+etoh60_2_2	etoh60_2_2.fq	Conventional base calls	Sanger / Illumina 1.9	22605.0	0.0	101.0	37.0	99.85843839858438	101.0	pass	pass	pass	pass	fail	pass	pass	pass	pass	pass	pass
+etoh60_3_1	etoh60_3_1.fq	Conventional base calls	Sanger / Illumina 1.9	26254.0	0.0	101.0	37.0	99.85526015083416	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+etoh60_3_2	etoh60_3_2.fq	Conventional base calls	Sanger / Illumina 1.9	26254.0	0.0	101.0	37.0	99.83621543383865	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+ref_1_1	ref_1_1.fq	Conventional base calls	Sanger / Illumina 1.9	14677.0	0.0	101.0	37.0	99.9523063296314	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+ref_1_2	ref_1_2.fq	Conventional base calls	Sanger / Illumina 1.9	14677.0	0.0	101.0	37.0	99.94549294815018	101.0	pass	pass	warn	pass	warn	pass	pass	pass	pass	pass	pass
+ref_2_1	ref_2_1.fq	Conventional base calls	Sanger / Illumina 1.9	20430.0	0.0	101.0	37.0	99.91189427312776	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+ref_2_2	ref_2_2.fq	Conventional base calls	Sanger / Illumina 1.9	20430.0	0.0	101.0	37.0	99.87763093489966	101.0	pass	pass	pass	pass	warn	pass	pass	pass	pass	pass	pass
+ref_3_1	ref_3_1.fq	Conventional base calls	Sanger / Illumina 1.9	13148.0	0.0	101.0	37.0	99.96197140249467	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+ref_3_2	ref_3_2.fq	Conventional base calls	Sanger / Illumina 1.9	13148.0	0.0	101.0	37.0	99.93915424399148	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_1_1	temp33_1_1.fq	Conventional base calls	Sanger / Illumina 1.9	20593.0	0.0	101.0	37.0	99.89802360025251	101.0	pass	pass	pass	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_1_2	temp33_1_2.fq	Conventional base calls	Sanger / Illumina 1.9	20593.0	0.0	101.0	37.0	99.89316758121691	101.0	pass	pass	pass	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_2_1	temp33_2_1.fq	Conventional base calls	Sanger / Illumina 1.9	15779.0	0.0	101.0	37.0	99.93662462766969	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_2_2	temp33_2_2.fq	Conventional base calls	Sanger / Illumina 1.9	15779.0	0.0	101.0	37.0	99.94296216490271	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_3_1	temp33_3_1.fq	Conventional base calls	Sanger / Illumina 1.9	22239.0	0.0	101.0	37.0	99.90107468861011	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+temp33_3_2	temp33_3_2.fq	Conventional base calls	Sanger / Illumina 1.9	22239.0	0.0	101.0	37.0	99.87409505823103	101.0	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass

@@ -1,0 +1,9 @@
+#modifies salmon quant
+salmon_kmer: "31"
+#modifies trimreads
+trimreads_qual_thresh: "20"
+#modifies trimreads
+trimreads_min_len: "100"
+#modifying the Snakefile info for conditions, replicates and reads used for expand
+conditions: ["etoh60", "temp33", "ref"]
+replicates: ["2", "3"]
